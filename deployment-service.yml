@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: karthikvarkala/kk:docker
+        image: karthikvarkala/zomato:dockerimage
         ports:
         - containerPort: 3000   # Use port 3000
 
